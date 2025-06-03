@@ -1,7 +1,7 @@
 # 🧠 Customer Churn Prediction using Machine Learning
 Ce projet a pour objectif de prédire le churn client (désabonnement) à l'aide d'algorithmes de machine learning. Il utilise un dataset contenant des informations sur les clients d'une entreprise de télécommunications, telles que leur âge, leur abonnement, leur utilisation des services, et leur historique avec l’entreprise.
 
-# # Le pipeline du projet inclut :
+##@ Le pipeline du projet inclut :
 
 Chargement et compréhension des données
 
